@@ -1,0 +1,5 @@
+applications:
+  - name: service-invoice
+    buildpack: staticfile_buildpack
+    memory: 2048MB
+    instances: 1
